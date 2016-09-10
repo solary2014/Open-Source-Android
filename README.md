@@ -3,7 +3,8 @@
 
 ###更新时间:2016-8-29<br>
 
-
+## Android zhis知识daotu:<br>
+##[点击跳转 Androidroute.md](https://github.com/solary2014/Open-Source-Android/blob/master/Androidroute.md)
 
 ## Android 学习资料收集:<br>
 ##[点击跳转 AndroidData.md](https://github.com/solary2014/Open-Source-Android/blob/master/AndroidData.md)
